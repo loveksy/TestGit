@@ -4,5 +4,6 @@ public class ksy {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("剑气长城 剑修 康舒云");
+        System.out.println("剑气长城 剑修 左右");
     }
 }
