@@ -7,5 +7,6 @@ public class ksy {
         System.out.println("剑气长城 剑修 左右");
         System.out.println("浩然天下 陆沉");
         System.out.println("浩然天下 齐静春");
+        System.out.println("浩然天下 飞升境");
     }
 }
